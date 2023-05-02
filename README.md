@@ -1,8 +1,4 @@
-# Teleport
-
-## Overview
-
-Teleport allows people to communicate.
+# Socket.io Nodejs threejs
 
 ## Run web locally
 1. Install node: https://nodejs.org/en/download/
